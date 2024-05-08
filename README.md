@@ -50,7 +50,6 @@ To summarize, policy iteration iteratively improves the policy by alternating be
 ```
 Developed By : Sai Eswar Kandukuri
 Reference No : 212221240020
-
 ```
 ```
 def policy_improvement(V, P, gamma=1.0):
